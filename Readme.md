@@ -11,6 +11,7 @@ https://dribbble.com/shots/16249097-SaaS-Design-in-Webfllow <br>
 https://dribbble.com/shots/15096546-Landing-Page-UX-UI-Design <br>
 https://dribbble.com/shots/16186293-website-landing-page <br>
 https://dribbble.com/shots/16356525-Bangtut-Hero-Section <br>
+https://dribbble.com/shots/23111792-Finanzen-Finance-Landing-Page <br>
 
 ## **2.Páginas de Login e Cadastro**
 https://dribbble.com/shots/15252242-Sign-Up-Page <br>
